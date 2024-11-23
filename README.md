@@ -1,10 +1,13 @@
-Data Science Enthusiast | Proficient in Python and SQL | M.Sc. Data Science Student at Coimbatore Institute of Technolog
+Data Science Enthusiast | Proficient in Python and SQL | M.Sc. Data Science Student at Coimbatore Institute of Technology
 
+ABOUT ME 
 Hi there!! I'm Rashmi G, a passionate data science enthusiast currently pursuing M.Sc. Data Science at Coimbatore Institute of Technology, Coimbatore. I am driven by a strong interest in exploring data-driven solutions to real-world problems.
+
 Skills:
 Programming Languages: Python, C++, Java
 Web Development: HTML, CSS, JavaScript
 Database: MySQL, Oracle
+
 Education:
 Coimbatore Institute of Technology, M.Sc Data Science (2022-2027)
 CGPA: 8.02 (till 4th Sem)
